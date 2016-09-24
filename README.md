@@ -1,3 +1,4 @@
+[![Code Issues](https://www.quantifiedcode.com/api/v1/project/05044d45aa3e46339e2e47cfa91c53e5/badge.svg)](https://www.quantifiedcode.com/app/project/05044d45aa3e46339e2e47cfa91c53e5)
 # MediBot
 An Chatbot based expert system to assist doctors improve screening of patients and diagnosis . 
 
@@ -16,6 +17,10 @@ sudo cp src/redis-server /usr/local/bin/
 sudo cp src/redis-cli /usr/local/bin/
 ```
 * Start with `redis-server`. This will start redis on localhost on port 6379.
+
+**HTML**
+
+Check out the zip file in lib/ for instructions to install HTML support.
 
 #Date : 2 JAN 2016
 ## Conventions
